@@ -2,6 +2,9 @@
 # A Data-Driven End-to-End Framework for Traffic Estimation with Cross-Network Generalization
 
 ![image](https://user-images.githubusercontent.com/31876093/153813727-71ffc4aa-8ced-401e-bfa0-a72fc088b319.png)
+<img width="1733" height="1125" alt="GTE-GC framework_v2" src="https://github.com/user-attachments/assets/f4d6f1f6-6e46-4fea-bbc9-4c1963c2e62c" />
+
+
 
 This is a PyTorch implementation of Generalizable Traffic Estimation with Graph Contrastive objective (GTE-GC) introduced in the paper entitled "A Data-Driven End-to-End Framework for Traffic Estimation with Cross-Network Generalization."
 The paper is currently under review in Transportation Research Part C - Emerging Technologies.
